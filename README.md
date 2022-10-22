@@ -19,7 +19,7 @@
 
 ### To Install this project, follow the steps above:
 
-#### https://github.com/ElisbertoJunior/desfio1- bootcamp-nttdata
+#### https://github.com/ElisbertoJunior/desfio1-bootcamp-nttdata
 
 
 <br>
