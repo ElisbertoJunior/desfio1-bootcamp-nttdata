@@ -9,7 +9,6 @@ const getClockHTML = (hours, minutes, seconds) => {
     <span>${seconds}</span>  
   `
 }
-
 const updateClock = () => {
   const present = new Date()
   const hours = formatTimeUnit(present.getHours())
